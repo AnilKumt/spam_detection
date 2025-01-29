@@ -2,7 +2,7 @@
 # 📱 SMS Spam Detection System
 > A machine learning-powered application that helps protect users from unwanted spam messages.
 
-🚀 **Check out the live version of the application here:** [Streamlit App](your_deployment_link_here)
+🚀 **Check out the live version of the application here:** [Streamlit App](https://anil-kumt-spam-detection.streamlit.app/)
 
 
 <img src="./assets/UI.png" alt="Project Banner" style="width: 50%; border: 1px solid black;">
@@ -128,7 +128,7 @@ I welcome contributions! Here's how you can help:
 - The open-source community for invaluable tools
 - All contributors who help improve this project
 
-🚀 **Check out the live version of the application here:** [Streamlit App](your_deployment_link_here)
+🚀 **Check out the live version of the application here:** [Streamlit App](https://anil-kumt-spam-detection.streamlit.app/)
 
 Project Link: [https://github.com/AnilKumt/spam_detection](https://github.com/AnilKumt/spam_detection)
 
