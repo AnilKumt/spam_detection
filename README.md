@@ -27,7 +27,7 @@ This SMS Spam Detection system leverages machine learning algorithms to accurate
 - 🔄 Continuous improvement capability
 
 ## 🚀 Live Demo
-Experience the application in action: [Live Demo Link](your_deployment_link_here)
+Experience the application in action: [Live Demo Link](https://anil-kumt-spam-detection.streamlit.app/)
 
 
 ## 🛠️ Technology Stack
