@@ -2,18 +2,20 @@
 # 📱 SMS Spam Detection System
 > A machine learning-powered application that helps protect users from unwanted spam messages.
 
-<div style="text-align: center;">
-  <img src="./assets/UI.png" alt="Project Banner" style="border: 1px solid black; width: auto; max-width: 100%;">
-</div>
+🚀 **Check out the live version of the application here:** [Streamlit App](your_deployment_link_here)
+
+
+<img src="./assets/UI.png" alt="Project Banner" style="width: 50%; border: 1px solid black;">
 
 
 ## 🌟 Overview
 This SMS Spam Detection system leverages machine learning algorithms to accurately classify messages as spam or legitimate. Built with Python and deployed as a user-friendly web application using Streamlit, it offers real-time message classification to help users maintain a clean, spam-free messaging experience.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/ham_message.png" alt="Ham Message" style="border: 1px solid black; width: auto; max-width: 45%;">
-  <img src="./assets/spam_message.png" alt="Spam Message" style="border: 1px solid black; width: auto; max-width: 45%;">
+  <img src="./assets/ham_message.png" alt="Ham Message" style="border: 1px solid black; width: 300px; height: 400px;">
+  <img src="./assets/spam_message.png" alt="Spam Message" style="border: 1px solid black; width: 300px; height: 400px;">
 </div>
+
 
 
 ## ✨ Key Features
@@ -126,6 +128,7 @@ I welcome contributions! Here's how you can help:
 - The open-source community for invaluable tools
 - All contributors who help improve this project
 
+🚀 **Check out the live version of the application here:** [Streamlit App](your_deployment_link_here)
 
 Project Link: [https://github.com/AnilKumt/spam_detection](https://github.com/AnilKumt/spam_detection)
 
