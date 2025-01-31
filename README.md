@@ -4,6 +4,11 @@
 
 🚀 **Check out the live version of the application here:** [Streamlit App](https://anil-kumt-spam-detection.streamlit.app/)
 
+**⚠️ Temporary Issue:**  
+*The deployed Streamlit app is currently facing a `download('punkt')` error.*  
+:red_circle: To view the project, please clone the repository and run the app locally using:  
+`git clone <repo-link>`  
+`streamlit run app.py`
 
 <img src="./assets/UI.png" alt="Project Banner" style="width: 50%; border: 1px solid black;">
 
