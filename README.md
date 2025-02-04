@@ -25,7 +25,6 @@ This SMS Spam Detection system leverages machine learning algorithms to accurate
 
 ## ✨ Key Features
 - 🔍 Real-time SMS classification
-- 📊 100% precision in spam detection
 - 🎯 User-friendly web interface
 - 📈 Comprehensive data analysis
 - 🛠️ Multiple ML models comparison
